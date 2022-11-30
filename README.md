@@ -1,1 +1,2 @@
-# food-palace
+# food palace
+A small restaurant website
